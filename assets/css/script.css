@@ -23,6 +23,7 @@
 }
 
 .card-text {
+    padding:20px;
     background-color: lightgrey;
 }
 
@@ -54,4 +55,5 @@
 
 .td {
     padding: 0px;
+    background-color: orangered;
 }
