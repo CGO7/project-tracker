@@ -8,6 +8,7 @@
 .card {
     margin: 50px;
     padding: 0px;
+    float: left;
     
 }
 
@@ -35,4 +36,22 @@
 .card-link {
     width: 200px;
     margin:5px;
+}
+
+.table-bordered {
+    float: left;
+    margin: 50px;
+    width: 750px;
+}
+
+#thead {
+    background-color: darkgray;
+}
+
+#tbody {
+    background-color: goldenrod;
+}
+
+.td {
+    padding: 0px;
 }
